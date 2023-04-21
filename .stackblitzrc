@@ -1,3 +1,4 @@
 {
-  "startCommand": "start:dev"
+  "startCommand": "start:dev",
+  "installDependencies": true
 }
